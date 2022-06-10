@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Debanjan
 
 - 🔭 I’m currently working on a photo sharing app
-- 🌱 I’m currently learning React.js, Node.js
 - 📫 How to reach me: debanjanb01234@gmail.com
 - ⚡ Fun fact: My dog name is Leo
 
